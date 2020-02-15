@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "small_nether_mildlywarm:items/nether_base"
+  }
+}
